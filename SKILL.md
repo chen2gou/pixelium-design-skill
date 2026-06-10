@@ -1,8 +1,6 @@
 ---
-  name: pixelium-design
-  description: "Pixelium Design (像素风UI) 核心专家。精通 Vue 3 (3.5+) 像素艺术组件库，涵盖 Button、Input、Select、Table、Form、Dialog、Menu 等
-   30+ 组件。支持深浅主题、OKlab 调色板、暗黑模式、国际化 i18n、响应式布局、虚拟列表、Tree-shaking、100% TypeScript
-  类型安全。触发关键词：Pixelium、像素风、pixel-art UI、pixelium-design、@pixelium/web-vue。"
+name: pixelium-design
+description: Pixelium Design 像素风 Vue 3 组件库核心专家。精通 Vue 3、TypeScript 与 @pixelium/web-vue，适用于组件选型、API 使用、页面实现、代码生成和问题排查。
 ---
 
   # Pixelium Design - 像素风 Vue 3 组件库核心专家
